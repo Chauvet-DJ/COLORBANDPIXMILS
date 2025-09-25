@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.06 - COLORband Pix M ILS](https://github.com/Chauvet-DJ/COLORBANDPIXMILS/blob/f89ea1848fa68de26af8bde25205ae6b01b14520/firmware/V1.06_09-25-2025.zip)
+- Removed ILS modes 3 and 4
+
 [V1.04 - COLORband Pix M ILS](https://github.com/Chauvet-DJ/COLORBANDPIXMILS/blob/f19b26213254cf3f106a9cd93e8c4f513b606c4f/firmware/V1.04_04-08-24.zip)
 - Added pixel effect triggering with the ILS Command
 
